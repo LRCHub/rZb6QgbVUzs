@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ポートレイト",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T10:19:15.924561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポートレイト",
+      "artist": "豊崎 愛生",
+      "has_synced": true,
+      "path": "select/01_ポートレイト_豊崎_愛生.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ポートレイト",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/02_ポートレイト_豊崎愛生.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ポートレイト~ローレンスパークの想い出~",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/03_ポートレイト~ローレンスパークの想い出~_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ポートレイト",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/04_ポートレイト_YUKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポートレイト",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_ポートレイト_豊崎_愛生.txt"
+    }
+  ]
+}
